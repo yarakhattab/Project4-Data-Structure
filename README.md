@@ -50,11 +50,18 @@ Suppose you have routers A, B, and C, with edges:
 
 Running Dijkstra from A to C will return the path A → B → C with total cost 5.
 
-## 👩‍💻 Author
+## ✍️ Author:
+Name: Yara Khattab
 
-**Yara Khattab**  
-Section 1 — Computer Engineering  
-Student ID: 1210520
+
+GitHub: yarakhattab.
+
+
+Email: yarakhattab16@gmail.com.
+
 
 ---
+
+Feel free to update it further based on your preferences. Let me know if you'd like any other changes! 😊
+
 
