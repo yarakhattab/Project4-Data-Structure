@@ -54,11 +54,11 @@ Running Dijkstra from A to C will return the path A → B → C with total cost 
 Name: Yara Khattab
 
 
-GitHub: yarakhattab.
+📧 Email: yarakhattab16@gmail.com
 
 
-Email: yarakhattab16@gmail.com.
 
+🔗 GitHub: github.com/yarakhattab
 
 ---
 
